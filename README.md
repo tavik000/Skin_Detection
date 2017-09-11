@@ -23,6 +23,7 @@ Testing Image
 Result
 ![scr02](https://github.com/tavik000/Skin_Detection/raw/master/Screenshots/scr02.png)
 
+Balck pixels are non-skin, White pixels are skin.
 
 **If you like this, please leave a star.**
 
